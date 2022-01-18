@@ -11,6 +11,7 @@ setInterval(() => {
     var s = a.getSeconds();
     var session = "AM";
 
+
     if(h==0){
         h = 12;
     }
